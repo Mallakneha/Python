@@ -1,0 +1,6 @@
+
+To print each char in a new line
+list1=["neha","jahnavi","pavani"]
+for i in list1:
+    for j in i:
+        print(j)
